@@ -1,0 +1,10 @@
+.perCard:hover{
+    border-radius: 10px;
+    box-shadow: 0 0 0 5px #F9A51A;
+}
+.perCard img{
+    border-radius: 10px;
+}
+.cardName{
+    text-shadow: 1px 1px 5px black;
+}
